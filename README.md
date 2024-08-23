@@ -11,6 +11,7 @@
 
 ## Motivation
 
+Starting System design study
 > Learn how to design large-scale systems.
 >
 > Prep for the system design interview.
